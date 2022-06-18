@@ -1,0 +1,13 @@
+ru\itmo\ClientApp$1.class
+ru\itmo\errors\EmptyFieldException.class
+ru\itmo\App.class
+ru\itmo\errors\EmptyFieldExceptionMapper.class
+ru\itmo\errors\CastToIntExceptionMapper.class
+ru\itmo\LoyaltyResource.class
+ru\itmo\errors\RowIsNotExistsException.class
+ru\itmo\ConnectionUtil.class
+ru\itmo\PostgreSQLDAO.class
+ru\itmo\errors\CastToIntException.class
+ru\itmo\ClientApp.class
+ru\itmo\errors\RowIsNotExistsExceptionMapper.class
+ru\itmo\Loyalty.class
